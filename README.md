@@ -1,11 +1,11 @@
 /*
 
-# create console app
+# Create console app
 ```
 dotnet console -o NHReverseMySQL --framework net6.0
 ```
 
-# hibernate with mysql
+# Hibernate with mysql
 ```
 dotnet add package Nhibernate
 dotnet add package FluentNHibernate
