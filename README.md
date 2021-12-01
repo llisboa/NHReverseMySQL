@@ -1,6 +1,6 @@
 /*
 
-# app create
+# create console app
 ```
 dotnet console -o NHReverseMySQL --framework net6.0
 ```
